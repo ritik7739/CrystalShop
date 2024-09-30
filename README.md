@@ -11,7 +11,7 @@ Welcome to **Crystal Shop**, an e-commerce web application that provides users w
 - [License](#license)
 
 ## Demo
-You can visit the live demo of this project [here](#).
+You can visit the live demo of this project [here](https://crystal-shop-three.vercel.app/).
 
 ## Features
 - Beautiful and responsive landing page with a clean and modern design.
